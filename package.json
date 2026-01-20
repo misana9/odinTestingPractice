@@ -1,0 +1,24 @@
+{
+  "name": "odintestingpractice",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/misana9/odinTestingPractice#readme",
+  "bugs": {
+    "url": "https://github.com/misana9/odinTestingPractice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misana9/odinTestingPractice.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "analyze.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+  
+}
