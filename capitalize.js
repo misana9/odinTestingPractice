@@ -22,6 +22,8 @@ function capitalize(string){
         return capitalString.join('');
     }
 };
+
+
 const isLetter = (char,letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz') => {
     if(letters.includes(char)){
         return true;
